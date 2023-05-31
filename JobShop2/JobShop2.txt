@@ -1,0 +1,180 @@
+Product #1
+Release day: 1
+Operation A   2
+Operation B   3
+Operation C   5
+Operation D   6
+Product was completed in 5 days.
+
+
+Product #3
+Release day: 2
+Operation A   3
+Operation C   4
+Operation D   5
+Operation B   7
+Product was completed in 5 days.
+
+
+Product #4
+Release day: 4
+Operation A   5
+Operation B   6
+Operation B   9
+Operation C  10
+Product was completed in 6 days.
+
+
+Product #1
+Release day: 5
+Operation A   6
+Operation B   8
+Operation C   9
+Operation D  10
+Product was completed in 5 days.
+
+
+Product #2
+Release day: 3
+Operation B   4
+Operation C   6
+Operation B  10
+Operation D  11
+Product was completed in 8 days.
+
+
+Product #3
+Release day: 6
+Operation A   7
+Operation C   8
+Operation D   9
+Operation B  13
+Product was completed in 7 days.
+
+
+Product #1
+Release day: 9
+Operation A  10
+Operation B  14
+Operation C  15
+Operation D  16
+Product was completed in 7 days.
+
+
+Product #4
+Release day: 8
+Operation A   9
+Operation B  12
+Operation B  16
+Operation C  18
+Product was completed in 10 days.
+
+
+Product #3
+Release day: 10
+Operation A  11
+Operation C  12
+Operation D  13
+Operation B  19
+Product was completed in 9 days.
+
+
+Product #2
+Release day: 7
+Operation B  11
+Operation C  13
+Operation B  18
+Operation D  19
+Product was completed in 12 days.
+
+
+Product #1
+Release day: 13
+Operation A  14
+Operation B  20
+Operation C  21
+Operation D  22
+Product was completed in 9 days.
+
+
+Product #4
+Release day: 12
+Operation A  13
+Operation B  17
+Operation B  23
+Operation C  24
+Product was completed in 12 days.
+
+
+Product #3
+Release day: 14
+Operation A  15
+Operation C  16
+Operation D  17
+Operation B  25
+Product was completed in 11 days.
+
+
+Product #2
+Release day: 11
+Operation B  15
+Operation C  17
+Operation B  24
+Operation D  25
+Product was completed in 14 days.
+
+
+Product #1
+Release day: 17
+Operation A  18
+Operation B  26
+Operation C  27
+Operation D  28
+Product was completed in 11 days.
+
+
+Product #3
+Release day: 18
+Operation A  19
+Operation C  20
+Operation D  21
+Operation B  29
+Product was completed in 11 days.
+
+
+Product #4
+Release day: 16
+Operation A  17
+Operation B  22
+Operation B  30
+Operation C  31
+Product was completed in 15 days.
+
+
+Product #2
+Release day: 15
+Operation B  21
+Operation C  22
+Operation B  31
+Operation D  32
+Product was completed in 17 days.
+
+
+Product #4
+Release day: 20
+Operation A  21
+Operation B  28
+Operation B  32
+Operation C  33
+Product was completed in 13 days.
+
+
+Product #2
+Release day: 19
+Operation B  27
+Operation C  28
+Operation B  33
+Operation D  34
+Product was completed in 15 days.
+
+
